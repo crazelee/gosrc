@@ -1,5 +1,7 @@
 # net http
 
+公众号文章：https://mp.weixin.qq.com/s/EuucDt5yVjnXHXmmfhT_vQ
+
 # 常量
 
 路径: method.go
